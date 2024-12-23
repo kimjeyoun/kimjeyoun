@@ -51,10 +51,8 @@
 <!-- Contact -->
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://mail.naver.com/v2/new?type=toMe">
-    <img src="https://img.shields.io/badge/NAVER MAIL-03C75A?style=for-the-badge&logo=naver&logoColor=white" /> &nbsp
-  </a>
-  <a href="https://www.instagram.com/jaeyoun223/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-FF0069?style=for-the-badge&logo=instagram&logoColor=white" /> &nbsp
-  </a>
+  
+[<img src="https://img.shields.io/badge/NAVER%20MAIL-03C75A?style=for-the-badge&logo=naver&logoColor=white" />](https://mail.naver.com/v2/new?type=toMe)
+[<img src="https://img.shields.io/badge/INSTAGRAM-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/jaeyoun223/)
+
 </div>
